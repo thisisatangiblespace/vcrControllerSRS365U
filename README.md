@@ -2,7 +2,7 @@
 
 ![alt text](https://i.imgur.com/fvHVwEJ.png)
 
-Features:
+**Features:**
 - Direct move to specified timecode (hr/min/sec/frame)
 - Transport controls w/status indicators
 - Forward/reverse frame advance, variable playback speed
@@ -10,7 +10,9 @@ Features:
 - Connects via RS-232C connection
 - Built in TD 2021.11180
 
-Usage:
+
+
+**Usage:**
 Import .TOX component into TouchDesigner project for use in projects.
 Double-click into component for more information on operating the controller.
 Debugging available using serialReply DAT.
