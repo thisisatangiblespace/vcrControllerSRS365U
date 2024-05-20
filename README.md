@@ -1,6 +1,6 @@
 **JVC SR-S365U Controller Component for TouchDesigner**
 
-![alt text](https://i.imgur.com/fvHVwEJ.png)
+![alt text](https://i.imgur.com/24cZUEA.png)
 
 **Features:**
 - Direct move to specified timecode (hr/min/sec/frame)
