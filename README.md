@@ -18,7 +18,7 @@
 Import .TOX component into TouchDesigner project for use in projects.
 Double-click into component for more 
 information on operating the controller.
-Debugging available using serialReply DAT.
+Debugging available using "serialReply" DAT.
 If serial response byte 02h (ERROR) persists, 
 the Stop button will send byte 56h (CLEAR) 
 to clear the error. If this fails to clear the error, 
