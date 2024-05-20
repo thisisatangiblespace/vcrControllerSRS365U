@@ -1,5 +1,7 @@
 **JVC SR-S365U .TOX controller for TouchDesigner**
 
+![alt text](https://i.imgur.com/fvHVwEJ.png)
+
 Features:
 - Direct move to specified timecode (hr/min/sec/frame)
 - Transport controls w/status indicators
