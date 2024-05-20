@@ -6,7 +6,7 @@ Features:
 - Forward/reverse frame advance, variable playback speed
 - Contains preconfigured CHOPs for mapping controls to trigger events/events to trigger controls
 - Connects via RS-232C connection
-- Built using TD 2021.11180
+- Built in TD 2021.11180
 
 Usage:
 Import .TOX component into TouchDesigner project for use in projects.
