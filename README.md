@@ -27,7 +27,6 @@ disconnect the VCR from power and turn back on.
 todo:
 -convert transport glyphs from images to geometry (glyphs likely broken right now)
 -switch to open-source DSEG7 font (https://github.com/keshikan/DSEG) for timecode display
--include vcr-osd-mono (https://www.dafont.com/vcr-osd-mono.font) font file for timecode label
 -reverse order of frame-by-frame adjustment buttons
 
 *© 2024 Grant Johnson*
