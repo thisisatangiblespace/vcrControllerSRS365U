@@ -1,4 +1,4 @@
-**JVC SR-S365U controller .TOX component for TouchDesigner**
+**JVC SR-S365U controller component for TouchDesigner**
 
 ![alt text](https://i.imgur.com/fvHVwEJ.png)
 
