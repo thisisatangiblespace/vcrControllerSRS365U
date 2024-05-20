@@ -30,3 +30,4 @@ todo:
 -reverse order of frame-by-frame adjustment buttons
 
 *© 2024 Grant Johnson*
+*VCR OSD Mono font © 2015 Ricicery Leal*
