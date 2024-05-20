@@ -23,3 +23,5 @@ If serial response byte 02h (ERROR) persists,
 the Stop button will send byte 56h (CLEAR) 
 to clear the error. If this fails to clear the error, 
 disconnect the VCR from power and turn back on.
+
+*Copyright 2024 Grant Johnson*
