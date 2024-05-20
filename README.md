@@ -7,7 +7,7 @@
 - Transport controls w/status indicators
 - Forward/reverse frame advance, variable playback speed
 - Contains preconfigured CHOPs for mapping controls to trigger events/events to trigger controls
-- Connects via RS-232C connection
+- Connects via RS-232C serial bus
 - Built in TD 2021.11180
 
 
