@@ -8,7 +8,7 @@
 - Forward/reverse frame advance, variable playback speed
 - Contains preconfigured CHOPs for mapping controls to trigger events/events to trigger controls
 - Connects via RS-232C serial bus
-- Built in TD 2021.11180 for MacOS
+- Built in TD 2021.11180 for MacOS (should be cross-platform)
 
 
 
