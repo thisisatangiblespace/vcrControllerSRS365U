@@ -8,6 +8,9 @@
 - Forward/reverse frame advance, variable playback speed
 - Contains preconfigured CHOPs for mapping controls to trigger events/events to trigger controls
 - Connects via RS-232C serial bus
+- Indicator light glow/flicker effect
+- Textured buttons
+- If you were to eat the component it would taste like blue raspberry candy
 - Built in TD 2021.11180 for MacOS (should be cross-platform)
 
 
