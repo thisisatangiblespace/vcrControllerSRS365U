@@ -24,10 +24,7 @@ the Stop button will send byte 56h (CLEAR)
 to clear the error. If this fails to clear the error, 
 disconnect the VCR from power and turn back on.
 
-todo:
--convert transport glyphs from images to geometry (glyphs likely broken right now)
--switch to open-source DSEG7 font (https://github.com/keshikan/DSEG) for timecode display
--reverse order of frame-by-frame adjustment buttons
-
 *© 2024 Grant Johnson*
-*VCR OSD Mono font © 2015 Ricicery Leal*
+*Copyright (c) 2020, keshikan (https://www.keshikan.net),
+with Reserved Font Name "DSEG".*
+*Copyright (c) 2014 Riciery Leal*
