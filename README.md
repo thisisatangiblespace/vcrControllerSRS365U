@@ -11,7 +11,7 @@
 - Indicator light glow/flicker effect
 - Textured buttons
 - If you were to eat the component it would taste like blue raspberry candy
-- Built in TD 2021.11180 for MacOS (should work on Windows)
+- Tested and working on latest TD builds for both MacOS and Windows
 
 
 
