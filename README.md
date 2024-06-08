@@ -6,7 +6,7 @@
 - Direct move to specified timecode (hr/min/sec/frame)
 - Transport controls w/status indicators
 - Forward/reverse frame advance, variable playback speed
-- Contains preconfigured CHOPs for mapping controls to trigger events/events to trigger controls
+- Contains custom COMP menu for mapping controls to trigger events/events to trigger controls
 - Connects via RS-232C serial bus
 - Indicator light glow/flicker effect
 - Textured buttons
