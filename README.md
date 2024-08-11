@@ -3,6 +3,7 @@
 ![alt text](https://i.imgur.com/kgMOeyV.png)
 
 **Features:**
+- Scrub to tape position/tinecode (with realtime tape position tracking), with toggle for SP/EP modes
 - Direct move to specified timecode (hr/min/sec/frame)
 - Transport controls w/status indicators
 - Forward/reverse frame advance, variable playback speed
