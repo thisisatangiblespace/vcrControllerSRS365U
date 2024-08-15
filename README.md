@@ -7,9 +7,9 @@
 - Direct move to specified timecode (hr/min/sec/frame)
 - Transport controls w/status indicators
 - Forward/reverse frame advance, variable playback speed
-- Contains custom COMP menu for mapping controls to trigger events/events to trigger controls
+- Contains custom COMP menu for mapping controls to trigger events/events to trigger controls via CHOPs
 - Connects via RS-232C serial bus
-- Indicator light glow/flicker effect
+- Indicator light glow/flicker effect, color customizable
 - Textured buttons
 - If you were to eat the component it would taste like blue raspberry candy
 - Tested and working on latest TD 2023.11760 builds for both MacOS and Windows
