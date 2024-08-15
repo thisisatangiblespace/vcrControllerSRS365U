@@ -1,4 +1,4 @@
-**JVC SR-S365U Controller Component for TouchDesigner**
+**JVC SR-S365U VCR Controller Component for TouchDesigner**
 
 ![alt text](https://i.imgur.com/kgMOeyV.png)
 
